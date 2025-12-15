@@ -1,4 +1,8 @@
 # datatrust 🧠
+![PyPI](https://img.shields.io/pypi/v/datatrust)
+![Python](https://img.shields.io/badge/python-3.13+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 A Python library to **measure data trustworthiness and detect silent data corruption**.
 
@@ -17,6 +21,7 @@ pip install datatrust
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+
 
 
 
