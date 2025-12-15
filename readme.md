@@ -17,3 +17,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
+https://pypi.org/project/datatrust/0.1.0/ pypi link
+
+
